@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='bar',
-      version='2.0',
+      version='2.1',
       description='bar',
       url='http://github.com/storborg/funniest',
       author='Flying Circus',
